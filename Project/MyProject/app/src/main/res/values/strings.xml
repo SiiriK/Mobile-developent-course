@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Project</string>
+    <string name="movie_page">Movies</string>
+
+    <string-array name="movies">
+        <item>Titanic</item>
+        <item>Forrest Gump</item>
+        <item>Mamma mia</item>
+    </string-array>
+
+    <string-array name="grades">
+        <item>7.9</item>
+        <item>8.8</item>
+        <item>9.5</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated RMS Titanic.</item>
+        <item>A simple man unwittingly shapes history while chasing his dreams and true love.</item>
+        <item>A young woman invites three men to her wedding, hoping to discover which is her father.</item>
+    </string-array>
+    <string name="title_activity_detail">Movies</string>
+</resources>
