@@ -3,4 +3,6 @@
 - Open the project in Android Studio.
 - Sync Gradle and run the app.
 - Do the same with other exercises.
+- Link to the video: https://youtube.com/shorts/mnknO-AHX2I?feature=share
+  
 
